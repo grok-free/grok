@@ -1,6 +1,6 @@
 # Grok 官网：马斯克 Grok 国内免费使用指南~ （支持Grok3，无需翻墙）【5月更新】
 
-> **更新时间：2025/05/01**          
+> **更新时间：2025/05/01**           
 
 **全面体验 [Grok 中文版](https://chat.yixiaai.com/)，无需翻墙，支持 Grok3、Grok-3-reasoner 和多功能应用！**   
 本项目为国内用户提供 **[Grok 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://chat.yixiaai.com/)** 、**[Grok 镜像网站](https://chat.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Grok
