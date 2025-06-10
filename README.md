@@ -1,18 +1,18 @@
 # Grok 官网：马斯克 Grok 国内免费使用指南~ （支持Grok3，无需翻墙）【6月更新】
 
-> **更新时间：2025/06/10**                         
+> **更新时间：2025/06/11**                         
 
-**全面体验 [Grok 中文版](https://chat.lanjing.pro/)，无需翻墙，支持 Grok3、Grok-3-reasoner 和多功能应用！**   
-本项目为国内用户提供 **[Grok 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://xsimplechat.com/)** 、**[Grok 镜像网站](https://chat.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Grok
+**全面体验 [Grok 中文版](https://chat.lanjingai.org/)，无需翻墙，支持 Grok3、Grok-3-reasoner 和多功能应用！**   
+本项目为国内用户提供 **[Grok 中文版](https://chat.lanjingai.org/)使用指南**，同时整理了国内可用的 **[Grok 官网入口](https://xsimplechat.com/)** 、**[Grok 镜像网站](https://chat.lanjingai.org/)** 和 **官网使用教程**，帮助您快速上手 Grok
 
-**Grok 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**Grok 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **Grok 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 Grok 中文版？
 
-**[Grok 中文版](https://chat.lanjing.pro/)** 是 马斯克的 xAI 开发的 Grok 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[Grok 中文版](https://chat.lanjingai.org/)** 是 马斯克的 xAI 开发的 Grok 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 Grok 相比，中文版在以下方面更适合国内用户：
 
 - **中文优化**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -28,7 +28,7 @@
 | **镜像站名称**       | **地址**                                             | **支持版本**                                      | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                     |
 |----------------------|----------------------------------------------------|-------------------------------------------------|-------------|---------------------|-----------|----------------------------------------------|
 | **一下 AI**          | [https://chat.yixiaai.com](https://xsimplechat.com) | Grok 3，ChatGPT，Claude3.7，DeepSeek             | 有          | 微信扫码使用         | 高         | 中文支持、支持 Grok 3 和 MJ 绘图                 |
-| **蓝鲸 AI**          | [https://chat.lanjing.pro/](https://chat.lanjing.pro/) | Grok 3，ChatGPT，Claude3.7，DeepSeek             | 有          | 国内邮箱注册         | 高         | 支持最新的 GPT-o1、o3，实时语音对话，视频对话       |
+| **蓝鲸 AI**          | [https://chat.lanjingai.org/](https://chat.lanjingai.org/) | Grok 3，ChatGPT，Claude3.7，DeepSeek             | 有          | 国内邮箱注册         | 高         | 支持最新的 GPT-o1、o3，实时语音对话，视频对话       |
 | **AI智慧岛**         | [https://chat.lify.vip](https://chat.yixiaai.com/)    | Grok 3，Reasoner，GPT-4, GPT-4o, o1, o3          | 有          | 微信扫码使用         | 高         | 支持 Grok3，支持 4o、o1、o3 等全模型，兼具多行业功能  |
 | **AI指南**           | [https://chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com) | GPT-4, GPT-4o, o1                              | 有          | 国内邮箱注册         | 高         | 提供 AI 使用指南，含 ChatGPT 中文版指南          |
 | **AI工具站**         | [https://yixiaai.cn](https://yixiaai.cn)            | GPT-4, GPT-3.5, 4o mini                         | 有          | 国内直接使用         | 高         | 汇聚工具导航，满足各类 AI 使用需求                 |
@@ -53,7 +53,7 @@
 ## 如何快速使用 Grok 中文版？
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org)）。
 2. **扫码使用**：
    - 扫码登录：使用微信扫码，即可登录。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
